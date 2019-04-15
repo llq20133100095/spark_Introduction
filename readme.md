@@ -5,6 +5,7 @@
 ![image](https://github.com/llq20133100095/spark_Introduction/blob/master/pic/maven%E6%89%93%E5%8C%85.png)
 
 2.本地跑的scala，需要选择object
+
 ![image](https://github.com/llq20133100095/spark_Introduction/blob/master/pic/scala_object.png)
 
 3.如果需要用到本地测试的，则在测试中设计master
