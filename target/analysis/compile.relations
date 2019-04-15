@@ -1,0 +1,26 @@
+products:
+   F:\scala_workground\textllq\src\main\scala\spark_test.scala -> F:\scala_workground\textllq\target\classes\spark_test$.class
+   F:\scala_workground\textllq\src\main\scala\spark_test.scala -> F:\scala_workground\textllq\target\classes\spark_test.class
+   F:\scala_workground\textllq\src\main\scala\tagfeaturePitch.scala -> F:\scala_workground\textllq\target\classes\game\spread\nlp\tagfeaturePitch$.class
+   F:\scala_workground\textllq\src\main\scala\tagfeaturePitch.scala -> F:\scala_workground\textllq\target\classes\game\spread\nlp\tagfeaturePitch.class
+   F:\scala_workground\textllq\src\main\scala\test1.scala -> F:\scala_workground\textllq\target\classes\test1$$anonfun$1.class
+   F:\scala_workground\textllq\src\main\scala\test1.scala -> F:\scala_workground\textllq\target\classes\test1$.class
+   F:\scala_workground\textllq\src\main\scala\test1.scala -> F:\scala_workground\textllq\target\classes\test1.class
+binary dependencies:
+   F:\scala_workground\textllq\src\main\scala\spark_test.scala -> C:\Users\leolqli\.m2\repository\com\tencent\tdw\spark-core_2.11\3.12.0\spark-core_2.11-3.12.0.jar
+   F:\scala_workground\textllq\src\main\scala\spark_test.scala -> C:\Users\leolqli\.m2\repository\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar
+   F:\scala_workground\textllq\src\main\scala\spark_test.scala -> D:\jdk8\jre\lib\rt.jar
+   F:\scala_workground\textllq\src\main\scala\tagfeaturePitch.scala -> C:\Users\leolqli\.m2\repository\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar
+   F:\scala_workground\textllq\src\main\scala\tagfeaturePitch.scala -> D:\jdk8\jre\lib\rt.jar
+   F:\scala_workground\textllq\src\main\scala\test1.scala -> C:\Users\leolqli\.m2\repository\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar
+   F:\scala_workground\textllq\src\main\scala\test1.scala -> D:\jdk8\jre\lib\rt.jar
+source dependencies:
+external dependencies:
+class names:
+   F:\scala_workground\textllq\src\main\scala\spark_test.scala -> spark_test
+   F:\scala_workground\textllq\src\main\scala\spark_test.scala -> spark_test$
+   F:\scala_workground\textllq\src\main\scala\tagfeaturePitch.scala -> game.spread.nlp.tagfeaturePitch
+   F:\scala_workground\textllq\src\main\scala\tagfeaturePitch.scala -> game.spread.nlp.tagfeaturePitch$
+   F:\scala_workground\textllq\src\main\scala\test1.scala -> test1
+   F:\scala_workground\textllq\src\main\scala\test1.scala -> test1$
+   F:\scala_workground\textllq\src\main\scala\test1.scala -> test1$$anonfun$1
