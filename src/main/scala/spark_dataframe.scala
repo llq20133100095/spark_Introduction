@@ -35,5 +35,7 @@ object spark_dataframe {
     }
     val addCol = udf(code)
     df.withColumn("school", addCol(df("name"))).show()
+
+
   }
 }
